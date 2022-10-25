@@ -5,6 +5,6 @@ package hr.fer.ilj;
 
 public class Library {
     public boolean someLibraryMethod() {
-        return true;
+        return false;
     }
 }
